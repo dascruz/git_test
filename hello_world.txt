@@ -1,0 +1,2 @@
+Hello world!
+Learning some basic git for future use.
